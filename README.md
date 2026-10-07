@@ -19,3 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 Se realizo la definicion de las carpetas en el lib
 
 Análisis verificado por Jessica
+Metodolosgias Por Angela
